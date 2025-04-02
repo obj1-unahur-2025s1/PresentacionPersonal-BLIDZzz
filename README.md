@@ -3,11 +3,12 @@
 # Programación con objetos I
 ## Presentación Personal
 
-### Datos Personales
+### Mis Datos
 - Mi nombre es: Gastón Leonel Alvarez
-- Vivo en
+- Vivo en Hurlingham
+- Tengo 19 años
 
-
-### Otra Información
+### Información Adicional
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo 2 perros, Bella y Sassy
+- Elegí esta carrera para poder realizar mis propios proyectos
